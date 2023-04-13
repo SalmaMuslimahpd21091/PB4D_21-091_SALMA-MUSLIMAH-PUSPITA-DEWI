@@ -1,7 +1,0 @@
-Intent pada Android Studio adalah mekanisme yang digunakan untuk mempertukarkan data antara aktivitas atau komponen aplikasi yang berbeda. Intent digunakan untuk memulai komponen baru, seperti memulai aktivitas, memulai layanan, atau mengirim siaran ke sistem.
-
-Menu pada Android Studio adalah elemen antarmuka pengguna yang digunakan untuk menampilkan opsi dan tindakan yang tersedia untuk pengguna. Menu dapat berisi opsi untuk mengubah pengaturan, melihat informasi, atau menjalankan tindakan tertentu.
-
-Dialog pada Android Studio adalah jendela kecil yang muncul di atas aktivitas utama dan meminta pengguna untuk memberikan input atau mengambil tindakan tertentu. Dialog dapat digunakan untuk meminta persetujuan pengguna sebelum melakukan tindakan penting atau untuk meminta masukan dari pengguna.
-
-Dengan menggunakan Intent, Menu, dan Dialog pada aplikasi Android Studio, pengembang dapat membuat aplikasi yang lebih interaktif dan intuitif bagi pengguna. Intent memungkinkan komponen untuk berkomunikasi dan berinteraksi satu sama lain, Menu memberikan opsi dan tindakan yang mudah diakses oleh pengguna, dan Dialog memungkinkan pengguna untuk memberikan masukan dan melakukan tindakan tertentu dengan mudah
